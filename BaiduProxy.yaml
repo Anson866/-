@@ -173,6 +173,7 @@ proxy-groups:
     proxies:
     use:
       - 机场1
+      - 机场2
       - 免费节点
 
   - name: "国内代理"
